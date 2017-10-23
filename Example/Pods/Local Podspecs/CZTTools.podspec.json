@@ -1,0 +1,22 @@
+{
+  "name": "CZTTools",
+  "version": "0.1.0",
+  "summary": "A short description of CZTTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/11f8/CZTTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "11f8": "740277638@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/11f8/CZTTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CZTTools/Classes/**/*"
+}
